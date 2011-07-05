@@ -1,0 +1,4 @@
+* riak_kv
+Mooncloud is an open source erlang appliction based on Riak. Mooncloud provides a key/value datastore that implements Dynamo Mapreduce,
+lightweight data relations and should be backwards compatible with several Riak APIs.
+
